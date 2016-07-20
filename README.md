@@ -1,2 +1,2 @@
-# cosera
+# datasciencecoursera
 I am new.
