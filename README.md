@@ -1,2 +1,0 @@
-# datasciencecoursera
-I am new.
